@@ -1,6 +1,6 @@
 # 第４回課題提出
 ## vpc作成
-./vpc.png
+(./vpc.png)
 ## サブネット
 /lecture04/subnet.png
 ## セキュリティグループ (今回使用したのは赤丸sg)
